@@ -5,8 +5,8 @@ main:
       url: /blog-en/
     - title: "MIPT SciTech Club"
       url: /mipt-scitech-club-en/
-    - title: "About"
-      url: /en
+    # - title: "About"
+    #   url: /en
     - title: "Projects"
       url: /projects-en/
     - title: "Art"
@@ -18,8 +18,8 @@ main:
       url: /blog-ru/
     - title: "MIPT SciTech Club"
       url: /mipt-scitech-club-ru/
-    - title: "Про меня"
-      url: /ru
+    # - title: "Про меня"
+    #   url: /ru
     - title: "Проекты"
       url: /projects-ru/
     - title: "Арт"
